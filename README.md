@@ -1,4 +1,4 @@
-# 🏄‍♂️ AYUSH PATEL
+# 💻 AYUSH PATEL
 
 **`Digital Craftsman (Developer)`**
 
