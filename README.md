@@ -22,7 +22,11 @@ I'm an indie front-end developer and content creator building my version of the 
 
 <details>
  <summary><h3>👨‍💻 Ayush's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. The story is moving forward I'll provide update as we move.
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory.I started with Java as I heard it’s a mix of both low level and easy to learn. I wanted to learn Android development, so it seemed like a good fit for all of this. I learned Java basics, started DSA, and learned some basic and intermediate algorithms and data structures. I practiced them on LeetCode and completed around 370 questions.
+
+I then started development in parallel on the web as it seemed good and found a peer group to learn together. I used some free resources to learn basic HTML, CSS, and JS. Then I heard about React and started learning it, followed by Tailwind CSS, and now I’m learning Next.js, which is a metaframework of React.js.
+
+I’m now trying to look for real-world projects to work on to brush up my development skills. It’s been an amazing journey so far, and I’m excited to see where it takes me next! 😊
    
    
 
