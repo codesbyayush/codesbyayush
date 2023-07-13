@@ -1,4 +1,4 @@
-# 💻 AYUSH PATEL
+# Hi there, I'm Ayush Patel! 👋
 
 **`Digital Craftsman (Developer)`**
 
