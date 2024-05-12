@@ -1,8 +1,16 @@
-# Hi there, I'm Ayush Patel! 👋
+# Hi there, I'm Ayush Patel! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 **`Digital Craftsman (Developer)`**
 
-I'm an indie front-end developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an indie web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [@portfolio](http://ayushpatel.vercel.app)
+* ✉️  You can contact me at [codesbyayush@gmail.com](mailto:codesbyayush@gmail.com)
+* 🚀  I'm currently working on [Burner Chat](http://burner-chat.vercel.app)
+* 🧠  I'm learning Hono
+* 🤝  I'm open to collaborating on Full Stack web apps
+
 
 ---
 
@@ -41,15 +49,15 @@ alt="HTML"
 
 <br />
 
-#
+### Badges
 
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory.I started with Java as I heard it’s a mix of both low level and easy to learn. I wanted to learn Android development, so it seemed like a good fit for all of this. I learned Java basics, started DSA, and learned some basic and intermediate algorithms and data structures. I practiced them on LeetCode and completed around 370 questions.
+<b>My GitHub Stats</b>
 
-I then started development in parallel on the web as it seemed good and found a peer group to learn together. I used some free resources to learn basic HTML, CSS, and JS. Then I heard about React and started learning it, followed by Tailwind CSS, and now I’m learning Next.js, which is a metaframework of React.js.
+<a href="http://www.github.com/codesbyayush"><img src="https://github-readme-stats.vercel.app/api?username=codesbyayush&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="codesbyayush's GitHub stats" /></a>
 
-I’m now trying to look for real-world projects to work on to brush up my development skills. It’s been an amazing journey so far, and I’m excited to see where it takes me next! 😊
+<a href="http://www.github.com/codesbyayush"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbyayush&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/codesbyayush" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyayush&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
    
    
 
