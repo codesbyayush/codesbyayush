@@ -5,7 +5,7 @@
 I'm an indie web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [@portfolio](http://ayushpatel.vercel.app)
+* 🖥️  See my portfolio at [@portfolio](http://codesbyayush.vercel.app)
 * ✉️  You can contact me at [codesbyayush@gmail.com](mailto:codesbyayush@gmail.com)
 * 🚀  I'm currently working on [Burner Chat](http://burner-chat.vercel.app)
 * 🧠  I'm learning Hono
