@@ -7,7 +7,7 @@ I'm an indie web developer building my version of the digital world one step at 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [@portfolio](http://codesbyayush.vercel.app)
 * ✉️  You can contact me at [codesbyayush@gmail.com](mailto:codesbyayush@gmail.com)
-* 🚀  I'm currently working on [Burner Chat](http://burner-chat.vercel.app)
+* 🚀  I'm currently working on [Canny for indie hackers](no link for now)
 * 🧠  I'm learning Hono
 * 🤝  I'm open to collaborating on Full Stack web apps
 
