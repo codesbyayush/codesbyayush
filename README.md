@@ -8,9 +8,8 @@ I'm an indie web developer building my version of the digital world one step at 
 * 🖥️  See my portfolio at [@portfolio](http://codesbyayush.vercel.app)
 * ✉️  You can contact me at [codesbyayush@gmail.com](mailto:codesbyayush@gmail.com)
 * 🚀  I'm currently working on [Canny for indie hackers](https://github.com/codesbyayush/no-name-yet)
-* 🧠  I'm learning Local-first development, Hono, and exploring TanStack DB
+* 🧠  I'm learning about Local-first web apps, Hono, and exploring TanStack DB
 * 🤝  I'm open to collaborating on Full Stack web apps
-* ⚡  Fun fact: I commit daily and believe in learning by building
 
 ---
 
@@ -22,8 +21,6 @@ I'm an indie web developer building my version of the digital world one step at 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Java-990000?style=for-the-badge" alt="Java" />
-<img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 </p>
 
 ### **Frontend & State Management**
@@ -33,7 +30,6 @@ I'm an indie web developer building my version of the digital world one step at 
 <img src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/>
 <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"/>
 <img src="https://img.shields.io/badge/TanStack%20Router-FF4154?style=for-the-badge&logo=react-router&logoColor=white" alt="TanStack Router"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
 <img src="https://img.shields.io/badge/Zustand-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Zustand"/>
 </p>
 
@@ -43,9 +39,7 @@ I'm an indie web developer building my version of the digital world one step at 
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
 <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide"/>
 <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
 </p>
 
 ### **Backend & Database**
@@ -57,16 +51,12 @@ I'm an indie web developer building my version of the digital world one step at 
 <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Neon-00E0FF?style=for-the-badge&logo=neon&logoColor=black" alt="Neon Database"/>
 </p>
 
 ### **Authentication & Forms**
 
 <p align="left">
 <img src="https://img.shields.io/badge/Better_Auth-FF4154?style=for-the-badge" alt="Better Auth"/>
-<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth"/>
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
 <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" alt="Zod"/>
 </p>
